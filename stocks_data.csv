@@ -1,0 +1,31 @@
+,type,ticker_symbol,stock_name,Open,PrevClose,Volume,MarketCap
+0,Most Actives,GE,General Electric Co,10.89,10.88,"96,410,831",95.132B
+1,Most Actives,F,Ford Motor Co,9.31,9.34,"57,365,878",36.681B
+2,Most Actives,PFE,Pfizer Inc,40.66,40.34,"46,482,103",229.284B
+3,Most Actives,CCL,Carnival Corp,23.39,23.45,"46,692,116",25.613B
+4,Most Actives,BAC,Bank of America Corp,28.90,29.29,"39,765,006",251.651B
+5,Most Actives,T,AT&T Inc,29.78,29.54,"29,288,485",211.215B
+6,Most Actives,BA,Boeing Co,238.50,232.71,"31,832,444",134.454B
+7,Most Actives,MRO,Marathon Oil Corp,6.81,6.85,"33,128,009",5.281B
+8,Most Actives,OXY,Occidental Petroleum Corp,17.83,18.59,"30,276,234",16.939B
+9,Most Actives,WFC,Wells Fargo & Co,29.42,29.55,"29,872,046",121.306B
+10,Gainers,LB,L Brands Inc,38.24,38.25,"4,041,618",11.182B
+11,Gainers,TYL,Tyler Technologies Inc,422.82,420.44,"304,944",17.613B
+12,Gainers,PHM,Pultegroup Inc,42.18,42.06,"2,919,583",11.694B
+13,Gainers,DHI,D.R. Horton Inc,71.39,71.27,"2,724,414",26.892B
+14,Gainers,NEM,Newmont Corporation,59.66,59.44,"6,918,052",49.358B
+15,Gainers,LEN,Lennar Corp,74.18,73.88,"2,145,420",23.297B
+16,Gainers,EFX,Equifax Inc,166.95,166.50,"580,508",20.78B
+17,Gainers,WHR,Whirlpool Corp,184.07,184.07,"768,884",11.812B
+18,Gainers,FBHS,Fortune Brands Home & Security Inc,81.04,80.98,"942,741",11.541B
+19,Gainers,WELL,Welltower Inc,64.46,64.20,"2,937,637",27.425B
+20,Losers,LUMN,Centurylink Inc,10.56,10.56,"20,819,678",10.818B
+21,Losers,SPG,Simon Property Group Inc,93.70,93.91,"5,057,436",29.326B
+22,Losers,FTI,TechnipFMC PLC,9.93,10.27,"5,368,628",4.262B
+23,Losers,DVN,Devon Energy Corp,16.41,16.72,"9,590,211",6.101B
+24,Losers,HFC,HollyFrontier Corp,28.09,28.55,"2,579,961",4.443B
+25,Losers,WMB,Williams Companies Inc,22.30,22.49,"11,251,704",26.214B
+26,Losers,NLSN,Nielsen Holdings PLC,17.83,17.96,"4,020,714",6.158B
+27,Losers,ALK,Alaska Air Group Inc,52.64,52.94,"2,666,301",6.308B
+28,Losers,NOV,National Oilwell Varco Inc,14.26,14.55,"4,072,762",5.443B
+29,Losers,WRB,W. R. Berkley Corp,66.83,67.59,"624,261",11.622B
